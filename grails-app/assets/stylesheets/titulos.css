@@ -1,0 +1,23 @@
+h1 {
+  position: left;
+  margin-bottom: 40px;
+  margin-top: 40px;
+  margin-left: 1px;
+  border-bottom: 1px solid orange;
+  color: #FFFFF;
+  text-align: left;
+  //text-transform: uppercase;
+  letter-spacing: 2px;
+  font-weight: 100;
+  font-size: 25px;
+  font-family:'Helvetica Neue', Arial, sans-serif;
+   
+}
+
+h1 span {
+  position: relative;
+  margin-left: -35px;
+  top: 13px;
+  padding: 0 50px;
+  background: orange;
+}

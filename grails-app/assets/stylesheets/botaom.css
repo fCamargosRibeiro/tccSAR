@@ -1,0 +1,15 @@
+.botaoMaior{
+   width: 230px;
+   // height: 100px;
+ // margin-top: 20%;
+ margin-top: 1px;
+ margin-left: -15px; ;
+  margin-right: 1px;
+  margin-bottom: 13px;
+  display: inline-block;
+   
+}
+
+.teste{
+    display: inline-block;
+}

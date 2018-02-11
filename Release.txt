@@ -1,0 +1,59 @@
+----------------------- Sprint 1 -----------------------
+1. Crud cliente simples usando scarfolding
+2. Consultar cliente
+3. Manter produto, crud, scarfolding, validações
+4. Cadastrar venda
+
+----------------------- Sprint 2 -----------------------
+
+1. Conclusão cadastro cliente
+2. Login, porém possui erros
+
+Obs: Foi mudado como a venda será feita, sendo assim criação
+de historico de produto, além de um saldo e um financeiro para cliente.
+
+----------------------- Sprint 3 -----------------------
+
+1. Conclusão manter produto, validações e operações com produto
+2. Conclusão cadastro de venda, agora já com nova forma
+3. Conclusão consultar venda e detalhar venda
+4. Registro de pagamento
+5. Cadastro de Revendedores scarfolding, sem validações e regras de negocio
+
+----------------------- Sprint 4 -----------------------
+
+1. Cadastro de grupo de revendedores
+2. Integração com API de enviar emails
+3. Conclusão do manter pedido
+4. Inicio design do sistema
+5. Manter campanha, validação de data de inicio e fim e inclusão de pedidos na campanha 
+
+----------------------- Sprint 5 -----------------------
+
+1. Integração API Jasper Reports
+2. Continuação do design do sistema
+3. Emissão de relatórios de venda líquida
+4. Emissão de relatórios de pedidos por campanha
+5. Emissão de relatórios de pedidos pro revendedor
+
+
+----------------------- Sprint 6 -----------------------
+
+1. Divisão de perfis de acesso, administrador com toda visão do sistema,
+Gerente com visão geral do sistema, menos as funções do administrador,
+revendedor com visão somente do que é necessário para um revendedor dentro do sistema.
+2. Ajuste de bug no cadastramento de campanha
+3. Ajuste de bug no venda na inserção de virgula e não ponto no valor do produto
+4. Ajuste de bug no historio do produto venda, valor bugando no save da venda
+5. Ajuste da API de login do google
+6. Ajustes de interface
+
+----------------------- Versão final -----------------------
+
+1. Ajustes de validações
+2. Ajustes de interface
+3. Correção de bugs
+4. Realização de testes
+5. Testes integração PagSeguro
+6. Testes integração envio de e-mail
+7. Integração busca endereço por cep
